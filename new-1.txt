@@ -1,1 +1,5 @@
-hello new
+<<<<<<< HEAD
+hello text new
+=======
+hello text new
+>>>>>>> 46c32aff6a24e2f0ae7800c9717958649544ef18
